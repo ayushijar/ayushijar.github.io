@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Name | Data Scientist</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Data Scientist | Business Intelligence | Machine Learning</p>
+        <nav>
+            <a href="#about">About</a>
+            <a href="#projects">Projects</a>
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I am a Data Scientist with expertise in Python, SQL, Machine Learning, and Business Intelligence. I love turning raw data into actionable insights.</p>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>AI-Powered Connect4 Game</h3>
+            <p>Built an AI-driven Connect4 game using Minimax with Alpha-Beta Pruning for optimized decision-making.</p>
+            <a href="https://github.com/yourusername/connect4-ai" target="_blank">View Project</a>
+        </div>
+        <div class="project">
+            <h3>Market Basket Analysis</h3>
+            <p>Analyzed 3M+ grocery transactions to optimize product placement and pricing strategies.</p>
+            <a href="https://github.com/yourusername/market-basket" target="_blank">View Project</a>
+        </div>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: yourname@email.com</p>
+        <p>LinkedIn: <a href="https://linkedin.com/in/yourusername" target="_blank">linkedin.com/in/yourusername</a></p>
+        <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+    </section>
+
+    <footer>
+        <p>© 2024 Your Name | Powered by GitHub Pages</p>
+    </footer>
+</body>
+</html>
